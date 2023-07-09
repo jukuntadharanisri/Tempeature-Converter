@@ -1,0 +1,27 @@
+.container {
+  margin-top: 20px;
+}
+
+label, input, button {
+  display: block;
+  margin-bottom: 10px;
+  font-size:30px;
+}
+
+button {
+  margin-top: 10px;
+  font-size:20px;
+ 
+
+}
+body{
+  display:flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: pink;
+}
+input{
+  width:200px;
+  padding:10px;
+  font-size:20px;
+}
